@@ -1,0 +1,16 @@
+BFS
+4
+6
+start 0 0 0
+a 0 0 1
+b 0 0 2
+c 0 0 3
+d 0 0 4
+goal 0 0 5
+6
+start a
+a b
+b c
+c d
+d goal
+start goal
