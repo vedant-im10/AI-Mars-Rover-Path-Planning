@@ -1,4 +1,4 @@
-# 🚀 Mars Rover Path Planning - CSCI 561 (Spring 2024)
+# 🚀 AI - Mars Rover Path Planning
 
 This project implements three search algorithms (BFS, UCS, and A*) to solve a Mars rover path planning problem. The task simulates a rover moving across a terrain on Mars, seeking the most efficient path to collect soil samples while considering constraints like uphill energy and momentum.
 
